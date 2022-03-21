@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/css-flexbox-media-query-responsive-design-mobilefirst-design-gYo6bTLbq](https://www.frontendmentor.io/solutions/css-flexbox-media-query-responsive-design-mobilefirst-design-gYo6bTLbq)
 - Live Site URL: [https://mv805.github.io/stats-preview-card-component-main/](https://mv805.github.io/stats-preview-card-component-main/)
 
 ## My process
